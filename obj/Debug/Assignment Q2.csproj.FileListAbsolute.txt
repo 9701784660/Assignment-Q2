@@ -1,0 +1,7 @@
+D:\exercises\day3\Assignment Q2\Assignment Q2\bin\Debug\Assignment Q2.exe.config
+D:\exercises\day3\Assignment Q2\Assignment Q2\bin\Debug\Assignment Q2.exe
+D:\exercises\day3\Assignment Q2\Assignment Q2\bin\Debug\Assignment Q2.pdb
+D:\exercises\day3\Assignment Q2\Assignment Q2\obj\Debug\Assignment Q2.csproj.AssemblyReference.cache
+D:\exercises\day3\Assignment Q2\Assignment Q2\obj\Debug\Assignment Q2.csproj.CoreCompileInputs.cache
+D:\exercises\day3\Assignment Q2\Assignment Q2\obj\Debug\Assignment Q2.exe
+D:\exercises\day3\Assignment Q2\Assignment Q2\obj\Debug\Assignment Q2.pdb
